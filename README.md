@@ -21,6 +21,7 @@ This is a personal portfolio page designed to showcase, Services, and experience
 1. Clone the repo
 2. Customize the content&#x20;
 
+It still uncompleted...
    
 
 
