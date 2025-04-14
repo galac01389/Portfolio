@@ -20,7 +20,7 @@ This is a personal portfolio page designed to showcase, Services, and experience
 
 1. Clone the repo
 2. Customize the content&#x20;
-3. Deploy it via GitHub Pages, Vercel, Netlify, or your preferred platform.
+
    
 
 
