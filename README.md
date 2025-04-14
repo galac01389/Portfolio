@@ -1,4 +1,5 @@
-<img width="942" alt="Screenshot 2025-04-14 184157" src="https://github.com/user-attachments/assets/d32e12f9-31d7-4bd0-b75a-9a17a54ade43" /># Portfolio
+<img width="942" alt="Screenshot 2025-04-14 184157" src="https://github.com/user-attachments/assets/d32e12f9-31d7-4bd0-b75a-9a17a54ade43" />
+#Portfolio
 ## 🧰 Portfolio Page
 
 This is a personal portfolio page designed to showcase, Services, and experience as a developer. Built with a clean and modern layout, the portfolio highlights my work through interactive elements, project previews, and direct links to GitHub repositories and live demos.
