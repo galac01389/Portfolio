@@ -21,6 +21,5 @@ This is a personal portfolio page designed to showcase, Services, and experience
 2. Customize the content&#x20;
 3. Deploy it via GitHub Pages, Vercel, Netlify, or your preferred platform.
    
-<img width="942" alt="Screenshot 2025-04-14 184157" src="https://github.com/user-attachments/assets/35418557-9efd-4109-a7fa-009c350fe854" />
 
 
